@@ -1,6 +1,6 @@
 import React from "react";
 
-class Pancake extends React.Component {
+export default class Pancake extends React.Component {
   constructor(props) {
     super(props);
 
